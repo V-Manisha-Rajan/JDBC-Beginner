@@ -1,2 +1,2 @@
-# JDBC-Beginner
+# JDBC
 JDBC Beginner Assignment 
